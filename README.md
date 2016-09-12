@@ -1,7 +1,7 @@
-CollisionLogger
+ChunkLogger
 ===============
 
-CollisionLogger, watch and report VehicleCollisionEvent
+Chunk event logger
 
 Compilation
 -----------
