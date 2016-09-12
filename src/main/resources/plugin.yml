@@ -1,0 +1,12 @@
+name: ChunkLogger
+author: fubira
+website: ironingot.net
+main: net.ironingot.chunklogger.ChunkLogger
+version: 0.1
+commands:
+  clog:
+    usage:
+      /<command> [on|off]
+      /<command> broadcast [on|off]
+      /<command> version
+    description: Chunk logger
